@@ -12,6 +12,10 @@ The `/codes` folder contains more comprehensive code snippets and modules for ta
 
 The `/snippets` folder contains shorter and more concise code snippets. These snippets serve as templates or examples for common machine learning tasks. They are designed to be easily understandable and adaptable for use in various projects and scenarios.
 
+#### Advance Folder (/advance)
+
+The `/advance` folder contains advance topic related notebooks. Its better to have understanding of basic concepts before exploring this samples.
+
 ### Contribution
 
 Contributions to this repository are welcome! If you have any useful machine learning code snippets or modules that you'd like to share with the community, feel free to submit a pull request. Please ensure that your contributions adhere to our coding standards and are well-documented to facilitate ease of use for other users.
